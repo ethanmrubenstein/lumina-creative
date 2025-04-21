@@ -91,6 +91,12 @@ img {
   max-width: var(--container-small);
 }
 
+/* Alert */
+.alert {
+  text-align: center;
+  padding: 0.5rem 0;
+}
+
 /* Header */
 .header {
   margin: 1.5rem auto;
