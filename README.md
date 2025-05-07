@@ -1,6 +1,6 @@
 # Lumina Creative – Creative Agency Website Template
 
-A clean and modern HTML/CSS template designed for creative agencies, studios, or freelancers. This template features responsive design, elegant typography, and a layout that highlights services, portfolios, and team members—all built with **plain HTML and CSS**.
+A clean and modern HTML/CSS template designed for creative agencies, studios, or freelancers. This template features responsive design, elegant typography, and a layout that highlights services, portfolios, and team members, all built with **plain HTML and CSS**.
 
 ## 🔧 Features
 
